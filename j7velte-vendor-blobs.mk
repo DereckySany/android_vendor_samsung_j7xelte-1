@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7velte/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
     vendor/samsung/j7velte/proprietary/etc/bluetooth/bt_stack.conf:system/etc/bluetooth/bt_stack.conf \
     vendor/samsung/j7velte/proprietary/lib/hw/camera.universal7870.so:system/lib/hw/camera.universal7870.so \
-    vendor/samsung/j7velte/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/samsung/j7velte/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/j7velte/proprietary/lib/libexynoscamera3.so:system/lib/libexynoscamera3.so \
     vendor/samsung/j7velte/proprietary/lib/libseccameracore.so:system/lib/libseccameracore.so \
@@ -46,7 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7velte/proprietary/lib/libsomp.so:system/lib/libsomp.so \
     vendor/samsung/j7velte/proprietary/vendor/lib/libHpr_LocFace_mvfd_v1.0.so:system/vendor/lib/libHpr_LocFace_mvfd_v1.0.so \
     vendor/samsung/j7velte/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
-    vendor/samsung/j7velte/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
     vendor/samsung/j7velte/proprietary/bin/gpsd:system/bin/gpsd \
     vendor/samsung/j7velte/proprietary/etc/ca.pem:system/etc/ca.pem \
     vendor/samsung/j7velte/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
@@ -83,15 +81,13 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7velte/proprietary/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:system/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
     vendor/samsung/j7velte/proprietary/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:system/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/j7velte/proprietary/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:system/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
-    vendor/samsung/j7velte/proprietary/lib/libMcClient.so:system/lib/libMcClient.so \
-    vendor/samsung/j7velte/proprietary/lib/libMcRegistry.so:system/lib/libMcRegistry.so \
+    vendor/samsung/j7velte/proprietary/vendor/lib/libMcClient.so:system/vendor/lib/libMcClient.so \
+    vendor/samsung/j7velte/proprietary/vendor/lib/libMcRegistry.so:system/vendor/lib/libMcRegistry.so \
     vendor/samsung/j7velte/proprietary/lib/omx/libOMX.Exynos.AVC.Decoder.so:system/lib/omx/libOMX.Exynos.AVC.Decoder.so \
     vendor/samsung/j7velte/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/j7velte/proprietary/lib/omx/libOMX.Exynos.HEVC.Decoder.so:system/lib/omx/libOMX.Exynos.HEVC.Decoder.so \
     vendor/samsung/j7velte/proprietary/lib/omx/libOMX.Exynos.HEVC.Encoder.so:system/lib/omx/libOMX.Exynos.HEVC.Encoder.so \
     vendor/samsung/j7velte/proprietary/lib/omx/libOMX.Exynos.VP8.Decoder.so:system/lib/omx/libOMX.Exynos.VP8.Decoder.so \
-    vendor/samsung/j7velte/proprietary/bin/rild:system/bin/rild \
-    vendor/samsung/j7velte/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/j7velte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/j7velte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j7velte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \

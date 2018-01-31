@@ -105,6 +105,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/lib/libsensorservice.so:system/lib/libsensorservice.so \
     vendor/samsung/j7xelte/proprietary/lib/libsensorlistener.so:system/lib/libsensorlistener.so \
     vendor/samsung/j7xelte/proprietary/lib/hw/gralloc.exynos5.so:system/lib/hw/gralloc.exynos5.so \
+    vendor/samsung/j7xelte/proprietary/etc/somxreg.conf:system/etc/somxreg.conf \
     vendor/samsung/j7xelte/proprietary/etc/plmn_delta.bin:system/etc/plmn_delta.bin \
     vendor/samsung/j7xelte/proprietary/etc/plmn_se13.bin:system/etc/plmn_se13.bin \
     vendor/samsung/j7xelte/proprietary/etc/srm.bin:system/etc/srm.bin \

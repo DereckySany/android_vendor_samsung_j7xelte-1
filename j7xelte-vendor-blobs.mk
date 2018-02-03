@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/samsung/j7xelte/proprietary/lib/egl/libGLES_android.so:system/lib/egl/libGLES_android.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib/libOpenCL.so:system/vendor/lib/libOpenCL.so \
-    vendor/samsung/j7xelte/proprietary/lib/libvulkan.so:system/lib/libvulkan.so \
     vendor/samsung/j7xelte/proprietary/vendor/lib/libSEF.so:system/vendor/lib/libSEF.so \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/fimc_is_lib.bin:system/vendor/firmware/fimc_is_lib.bin \
     vendor/samsung/j7xelte/proprietary/vendor/firmware/mfc_fw.bin:system/vendor/firmware/mfc_fw.bin \

@@ -129,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xelte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/j7xelte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/j7xelte/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
-    vendor/samsung/j7xelte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/samsung/j7xelte/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/j7xelte/proprietary/lib/libsec-ril-dsds.so:system/lib/libsec-ril-dsds.so \
     vendor/samsung/j7xelte/proprietary/lib/libprotobuf-cpp-N.so:system/lib/libprotobuf-cpp-N.so \
